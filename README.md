@@ -8,9 +8,12 @@ For each fluid type you will find the according ``.blend`` files. So when playin
 ## Why distinguish between Vanilla and Mantaflow version?
 
 Several reasons:
+
 - The Mantaflow version has some additional options that have to be set (e.g. for wavelet noise)
 - Some values (e.g. vorticity) need to be set differently for Mantaflow to make sense
 
 ## Copyright
 
-Some of the files were taken from [https://www.miikahweb.com/][https://www.miikahweb.com/] and adapted only slightly.  
+Some of the files were taken from [https://www.miikahweb.com/][miikah] and adapted only slightly.
+
+[miikah]: https://www.miikahweb.com/]
