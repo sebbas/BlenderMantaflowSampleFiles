@@ -14,6 +14,13 @@ Several reasons:
 
 ## Copyright
 
-Some of the files were taken from [https://www.miikahweb.com/][miikah] and adapted only slightly.
+These Blender files were either
 
-[miikah]: https://www.miikahweb.com/]
+- taken from [https://www.miikahweb.com][miikah] and adapted only slightly.
+- created with the help of tutorials from [BlenderDiplom][blenderdiplom] and [BlenderGuru][blenderguru]
+- or just created by [me][sebbas]
+
+[blenderdiplom]: http://www.blenderdiplom.com
+[blenderguru]: http://www.blenderguru.com/
+[miikah]: https://www.miikahweb.com
+[sebbas]: http://sebas.org
